@@ -8,8 +8,14 @@ A language by Jessica Emberly.
 
 # Usage
 
-```git clone https://github.com/JessicaEmberlyOfficial/Evolution```
+```
+git clone https://github.com/JessicaEmberlyOfficial/Evolution
+```
 
-```cd Evolution```
+```
+cd Evolution
+```
 
-```python run.py```
+```
+python run.py
+```
